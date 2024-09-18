@@ -1,4 +1,4 @@
-# netflix_data_analysis_SQL
+# Netflix_data_analysis_SQL
 
 ![netflix](https://github.com/user-attachments/assets/ce3d8dd4-9975-4d23-9f1c-b3a2c5877434)
 
